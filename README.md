@@ -13,7 +13,7 @@ Aprire il programma `git-bash` nella cartella di PortableGit appena creata.
 Creare una cartella per il progetto sul Desktop chiamata `Esercitazione14marzo`.
 Su git-bash eseguire
 ```
-cd  $HOME/path/to/Esercitazione16maggio
+cd  $HOME/path/to/Esercitazione14marzo
 ```
 dove `path/to/` rappresenta il percorso della cartella `Esercitazione14marzo`.
 
