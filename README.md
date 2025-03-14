@@ -10,12 +10,12 @@ Aprire il programma `git-bash` nella cartella di PortableGit appena creata.
 ![](git-bash.png)
 
 ## Creazione progetto
-Creare una cartella per il progetto sul Desktop chiamata `Esercitazione16maggio`.
+Creare una cartella per il progetto sul Desktop chiamata `Esercitazione14marzo`.
 Su git-bash eseguire
 ```
 cd  $HOME/path/to/Esercitazione16maggio
 ```
-dove `path/to/` rappresenta il percorso della cartella `Esercitazione16maggio`.
+dove `path/to/` rappresenta il percorso della cartella `Esercitazione14marzo`.
 
 Creare un file `README.md` in Blocco note, che sarà il readme file del repository Git, e scrivere al suo interno la traccia dell'esercitazione indicata su Classroom.
 Salvare il file.
