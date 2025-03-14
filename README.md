@@ -17,7 +17,7 @@ cd  $HOME/path/to/Esercitazione14marzo
 ```
 dove `path/to/` rappresenta il percorso della cartella `Esercitazione14marzo`.
 
-Creare un file `README.md` in Blocco note, che sarà il readme file del repository Git, e scrivere al suo interno la traccia dell'esercitazione indicata su Classroom.
+Creare un file `README.md` in Blocco note, che sarà il readme file del repository Git, scrivete Esercitazione14marzo e aggiungete il vostro nome e classe .
 Salvare il file.
 
 ### Creazione repository su Github
