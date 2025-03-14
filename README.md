@@ -24,7 +24,7 @@ Salvare il file.
 - Aprire il sito github.com
 - Effettuare il login
 - Cliccare su `New` ![](newRepo.png)
-- Creare un nuovo repository `Esercitazione16maggio`, prestando attenzione a non creare un Readme di default ![](repo.png)
+- Creare un nuovo repository `Esercitazione14marzo`, prestando attenzione a non creare un Readme di default ![](repo.png)
 
 ### Configurazione del repository locale e sincronizzazione
 Da `git-bash` eseguire i seguenti comandi:
@@ -33,7 +33,7 @@ git init  # Inizializza il repository locale
 git add README.md  # Inserimento del file README.md nell'area di staging
 git commit -m "first commit"  # Creazione del primo commit, che serve a sincronizzare il repository locale con lo stage
 git branch -M main  # Creazione del branch main, da usare come default
-git remote add origin git@github.com:<username>/Esercitazione16maggio.git  # Connessione del repository remoto al repository locale
+git remote add origin git@github.com:<username>/Esercitazione14marzo.git  # Connessione del repository remoto al repository locale
 git push -u origin main  # Sincronizzazione del repository remoto con quello locale
 ```
 ## Aggiunta di nuovi file al repository
